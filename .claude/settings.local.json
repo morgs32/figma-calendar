@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "WebFetch(domain:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
